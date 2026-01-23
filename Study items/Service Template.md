@@ -1,0 +1,35 @@
+#### C:\Users\nraj\Downloads\updatedUiDefinition.json
+- Version: The file starts with a version number (2.0), indicating the format version of this configuration.
+- Steps: The configuration is divided into three main steps or sections:
+    - General
+    - Diagnostic Toolkit
+    - Dev Toolkit
+- General section: This section includes basic settings like:
+    - Service Name
+    - Node selection
+    - DNS configuration
+- Diagnostic Toolkit section: This part contains various network diagnostic tools such as:
+    - Ping
+    - Traceroute
+    - Port Scan (Nmap)
+    - HTTP/HTTPS Trace
+    - Duplicate IP check
+- Dev Toolkit section: This appears to be an advanced section for developers, including options like:
+    - Printing environment variables
+    - SSH access
+    - Timeout settings
+    - File download/upload tests
+- User Interface Elements: Each section contains various UI elements like:
+    - Text boxes
+    - Toggle switches
+    - Dropdowns
+    - Checkboxes
+- Help Text: Most elements have associated help text to guide users on how to use each feature.
+- Visibility and Dependencies: Some elements are only visible or required based on the state of other elements.
+- Output: The final part of the file defines how the collected configuration should be output, including:
+    - Service name
+    - Network settings
+    - Docker environment variables
+    - Image pull policies
+
+- This configuration file seems to be designed for a web-based interface where users can set up and customize a network diagnostic service. It provides a range of tools from basic (like ping) to more advanced (like Nmap scans), allowing users to troubleshoot network issues or perform network analysis tasks.

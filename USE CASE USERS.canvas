@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"45e31db08347d9ca","type":"text","text":"Root Org","x":-285,"y":-5,"width":145,"height":60},
+		{"id":"2d36c7b507721e35","type":"text","text":"Portfilo org","x":-337,"y":105,"width":250,"height":50},
+		{"id":"8950c544778f1e47","type":"text","text":"site admin","x":-480,"y":245,"width":250,"height":60},
+		{"id":"93d9499dd6bc7301","type":"text","text":"access user","x":-180,"y":245,"width":250,"height":60},
+		{"id":"913b6c792fdf2ea0","x":-337,"y":-140,"width":282,"height":60,"type":"text","text":"users created by org users but without assign to a group"},
+		{"id":"1c840a43cf6ca281","type":"text","text":"site admin","x":116,"y":130,"width":250,"height":60},
+		{"id":"31534fe309c42b00","type":"text","text":"access user","x":382,"y":130,"width":250,"height":60},
+		{"id":"cbcdfbb83a198065","type":"text","text":"Portfilo org","x":257,"y":-5,"width":250,"height":60},
+		{"id":"35fb3bb02aeb6601","type":"text","text":"users created by org users assign in the same to a group\n","x":241,"y":-177,"width":282,"height":135}
+	],
+	"edges":[
+		{"id":"5108003057ad058e","fromNode":"45e31db08347d9ca","fromSide":"bottom","toNode":"2d36c7b507721e35","toSide":"top"},
+		{"id":"9766f21e5a3ec538","fromNode":"2d36c7b507721e35","fromSide":"bottom","toNode":"8950c544778f1e47","toSide":"top"},
+		{"id":"dee9cf539d645d1f","fromNode":"2d36c7b507721e35","fromSide":"bottom","toNode":"93d9499dd6bc7301","toSide":"top"},
+		{"id":"c56d0a38750e8511","fromNode":"cbcdfbb83a198065","fromSide":"bottom","toNode":"1c840a43cf6ca281","toSide":"top"},
+		{"id":"2cf50e478ccfda44","fromNode":"cbcdfbb83a198065","fromSide":"bottom","toNode":"31534fe309c42b00","toSide":"top"},
+		{"id":"2e9f5dc4b9ec437a","fromNode":"45e31db08347d9ca","fromSide":"right","toNode":"cbcdfbb83a198065","toSide":"left"}
+	]
+}

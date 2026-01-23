@@ -1,0 +1,4 @@
+https://www.google.com/search?q=site+reliability+engineer&oq=site+reli&gs_lcrp=EgZjaHJvbWUqCggAEAAYsQMYgAQyCggAEAAYsQMYgAQyBwgBEAAYgAQyBwgCEAAYgAQyBggDEEUYOTIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDQxMThqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8
+FMEA & CHAOS engineering
+
+failure mode analysis

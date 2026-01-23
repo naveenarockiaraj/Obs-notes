@@ -1,0 +1,8 @@
+- [x] get_user
+- [ ] get_credentials
+- [x] get_sessions
+- [ ] get_client_authz_resource   /?>
+- [x] get_realm_role
+- [ ] get_authentication_flow_executions   /?>
+- [ ] get_client_authz_permission_associated_policies
+- [ ] get_required_actions

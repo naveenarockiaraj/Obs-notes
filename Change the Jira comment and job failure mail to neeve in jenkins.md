@@ -1,0 +1,11 @@
+- [x] ota-buildscript
+- [x] orch-buildscript
+- [ ] iq-buildscript
+- [ ] one-buildscript
+- [x] spaces-buildscript
+
+- [ ] ota-jeraissue
+- [x] orch-jeeraissue
+- [ ] iq-jeeraissue
+- [ ] one-jeeraissue
+- [ ] spaces-jeeraissue
