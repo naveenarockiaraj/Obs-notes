@@ -39,10 +39,14 @@
             "id": "4c6316726422fc55",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Gooddata.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gooddata"
             }
           },
           {
@@ -191,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DictionaryMethods",
+                "query": "good",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -212,7 +216,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -339,7 +344,7 @@
     "job - orch- total builds.md",
     "job - orch - needed.md",
     "Jenkins - Job- ota.md",
-    "gooddata Demo.md",
+    "Gooddata.md",
     "Good-Data.md",
     "Untitled 2.base",
     "Untitled 1.base",
