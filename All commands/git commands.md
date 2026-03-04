@@ -1,4 +1,4 @@
-git fetch && git checkout
+git fetch 
 git checkout -b naveen>>>>>>>>to create the new branch from the current branch
 git status>>>>> status of git
 git diff>>>to know what are the changes have done, "q" to stop
@@ -10,6 +10,11 @@ git stash pop>>>>>>>to unhold our changes
 code . >>>>>>>>>to view the code
 git stash pop
 git reset HEAD~1
+git stash drop - The stashed changes will dropoff (removed)
+git cherry-pick - to take the particular comit 
+git add  / `path`
+git commit  -m "commit message"
+git push
 `Git Push for Apitest: rm -f .git/hooks/pre-push git push
  git merge origin/develop - 
 why  unknown and any we dont use ?
