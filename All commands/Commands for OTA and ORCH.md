@@ -22,7 +22,7 @@
   exit
 ```
 > [!Build tag change]
-> docker tag iotium/ota-apigw:dev iotium/ota-apigw:OTQA-4366
+> docker tag iotium/ota-apigw:dev iotium/ota-apigw:offsettoyieldtest
 > docker tag iotium/ota-portal:dev iotium/ota-portal:OTA_G
 > docker tag iotium/ota-portal:dev iotium/ota-portal:OTQA-4310bulk
 

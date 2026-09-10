@@ -4,24 +4,95 @@
     "type": "split",
     "children": [
       {
-        "id": "65d4cf6451ba07c0",
+        "id": "8d8ea32ba8bc017c",
         "type": "tabs",
         "children": [
           {
-            "id": "4c6316726422fc55",
+            "id": "e549c594f395ca07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes.md",
+                "file": "Orch/org change for nodes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notes"
+              "title": "org change for nodes"
+            }
+          },
+          {
+            "id": "7ac09640119be67f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Orch/orch api test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "orch api test"
+            }
+          },
+          {
+            "id": "41dffe6a065ee5dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credentials/Credential.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credential"
+            }
+          },
+          {
+            "id": "ca75b99a8dd63d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rdp access.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "rdp access"
+            }
+          },
+          {
+            "id": "f70ad5e5f691f874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "device.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "device"
+            }
+          },
+          {
+            "id": "afa32522b0217141",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Credentials/Credential.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Credential"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -41,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -53,7 +126,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "good",
+                "query": "tag:#postman",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,54 +246,54 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4c6316726422fc55",
+  "active": "afa32522b0217141",
   "lastOpenFiles": [
-    "vite changes.md",
+    "All commands/Commands for OTA and ORCH.md",
+    "Credentials/Credential.md",
+    "event agenda.md",
+    "device.md",
+    "rdp access.md",
+    "Pasted image 20260822113726.png",
+    "Pasted image 20260822111015.png",
+    "Orch/org change for nodes.md",
+    "Orch/orch api test.md",
+    "Orch/Orch serial and ip generaion.md",
+    "All commands/Arun commands.md",
+    "Orch/Terminal comments orch.md",
+    "Orch/Take all build.md",
+    "Orch/Pentest42.md",
+    "Orch/NPM run changes.md",
+    "Orch/node alive.md",
+    "Ota/Build.md",
+    "Postman api/postmancmds.md",
+    "Postman api/API Private and Manifest build.md",
+    "Postman api/Postman.md",
+    "Postman api/Newman postman commands.md",
+    "Postman api/Testcase/Testcase not written.md",
+    "Postman api/Testcase/Testcase have written.md",
+    "Postman api/Testcase/API's.md",
+    "Study items/1links.md",
+    "Untitled.base",
+    "Screenshot (21).png",
+    "Indiadevot check 30-01-2026.md",
+    "Pasted image 20260730171207.png",
+    "All commands/git commands.md",
+    "Ota/Missing Security Headers- pentest.md",
+    "Pasted image 20260616152747.png",
     "USE CASE USERS.canvas",
-    "USE CASE FOR USERS.md",
-    "How to Set Up CI/CI-CD.md",
-    "Pasted image 20240821121959.png",
     "Untitled 3.base",
     "Untitled 2.base",
-    "Untitled 2.md",
+    "Untitled.canvas",
+    "Pasted image 20240821121959.png",
     "Untitled 1.base",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Untitled.base",
-    "notes.md",
-    "titlebar.md",
-    "SE - KT.md",
-    "Good-Data/GD-IMP.md",
-    "node-flash.md",
-    "job - orch- total builds.md",
-    "job - orch - needed.md",
-    "Jenkins - Job- ota.md",
-    "How to Set Up CI-CD for a React Project.md",
-    "AI Driven Unit Test Development.md",
-    "Good-Data/acceptance for gooddata.md",
-    "Good-Data/Gooddata.md",
     "Good-Data",
-    "Good-Data/Good-Data.md",
-    "GOALS.md",
-    "email.md",
-    "Change the Jira comment and job failure mail to neeve in jenkins.md",
-    "apigw.md",
-    "api keycloak.md",
-    "How to Set Up CI/CD Works With Docker.md",
-    "202508211236.md",
-    "202508201505.md",
-    "202504041520.md",
     "STEP 2 — How CI",
     "How to Set Up CI",
     "Pasted image 20250305170744.png",
     "Screenshot 2025-03-05 170433.png",
     "Screenshot 2025-03-05 170414.png",
     "Screenshot 2025-02-25 172628.png",
-    "Screenshot 2025-02-25 160221.png",
-    "Screenshot (102).png",
-    "Screenshot (103).png",
-    "Screenshot 2025-03-05 165458.png",
-    "Pasted image 20250305170204.png",
     "Untitled 2.canvas",
     "textgenerator/templates/awesomePrompts",
     "textgenerator/templates/default",
